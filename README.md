@@ -1,4 +1,11 @@
 # Defensive Network Traffic Analysis Using Wireshark: A Comparison of Local and Cloudflare-Tunneled Services
+![Course](https://img.shields.io/badge/Course-CTI--120-blue)
+![Type](https://img.shields.io/badge/Project-Midterm-informational)
+![Focus](https://img.shields.io/badge/Focus-Network_Traffic_Analysis-success)
+![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
+![Environment](https://img.shields.io/badge/Environment-Kali_Linux-lightgrey)
+![Proxy](https://img.shields.io/badge/Proxy-Cloudflare_Tunnel-f38020)
+![Service](https://img.shields.io/badge/Test_Service-Jellyfin-00A4DC)
 
 Robert Ramsey  
 P. Lynn Boyér  
