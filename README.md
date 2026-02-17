@@ -4,7 +4,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Network_Traffic_Analysis-success)
 ![Tool](https://img.shields.io/badge/Tool-Wireshark-orange)
 ![Environment](https://img.shields.io/badge/Environment-Kali_Linux-lightgrey)
-![Proxy](https://img.shields.io/badge/Proxy-Cloudflare_Tunnel-f38020)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
 Robert Ramsey  
